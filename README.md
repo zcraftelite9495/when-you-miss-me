@@ -6,7 +6,7 @@ An app created by ZcraftElite for his 1 year anniversary with his lovely boyfrie
 
 Being my first 3DS Application I have ever developed, its pretty simple, often using parts of code from devkitPro's examples and simple C code. It picks a random message from a selection of cute little messages and shows them to my lovely boyfriend, so he can remember how much I love him whenever he misses me.
 
-## How do I built it myself?
+## How do I build it myself?
 
 Step 1. Download the repository's main branch using Github Desktop, git's command line tool, Download ZIP, or any other tool.
 
